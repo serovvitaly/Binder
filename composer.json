@@ -1,0 +1,13 @@
+{
+    "name": "serovvitaly/binder",
+    "type": "symfony-bundle",
+    "description": "Binder CMF/CMS",
+    "keywords": ["Binder Laravel CMF CMS"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitaly Serov",
+            "email": "serovvitaly@gmail.com"
+        }
+    ]
+}
