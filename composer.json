@@ -12,5 +12,6 @@
     ],
     "autoload": {
         "psr-0": { "Serovvitaly\\Binder": "src" }
-    }
+    },
+    "target-dir": "src/Serovvitaly/Binder"
 }
